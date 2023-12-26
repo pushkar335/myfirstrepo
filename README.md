@@ -1,3 +1,3 @@
 # myfirstrepo
 first github project
-author pushkar wable
+author pushkar wable(Software tester)
